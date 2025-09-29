@@ -1,5 +1,5 @@
-## Olá, seja bem-vindo ao meu perfil!
+## Hello, welcome to my profile!
 
-| Estudante de Ciência da Computação <br>
-| Especialização em Desenvolvimento Mobile com Kotlin <br>
-| Apaixonado por aprender <br>
+| Computer Science Student
+| Specialization in Mobile Development
+| Passionate about learning
